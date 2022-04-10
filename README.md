@@ -1,7 +1,7 @@
 ## Hello GitHub Fans 👋
 
 
-### I'm ZhongZhi Zhang
+### I'm panghutx
 
 一名大二计科专业学生，喜欢编程，目前很菜，正在努力学习中……🌱目前仓库是每日练习时的代码，希望不久的将来能做出自己的作品。 
 
